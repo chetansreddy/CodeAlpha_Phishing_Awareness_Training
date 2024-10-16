@@ -1,0 +1,2 @@
+# CodeAlpha_Phishing_Awareness_Training
+Recognising and avoiding phishing attacks
